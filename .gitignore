@@ -1,0 +1,30 @@
+# Model files
+*.h5
+*.keras
+
+# Numpy zipped data
+*.npz
+
+# Checkpoints
+*.ckpt
+*.pth
+*.pt
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Input/output folders
+/input/
+catdog/
+*.zip
+
+# Image files (if not necessary)
+*.jpg
+*.png
+*.jpeg
+
+# Any OS or IDE metadata
+.DS_Store
+*.vscode/
+__pycache__/
+*.pyc
